@@ -22,7 +22,11 @@ sudo apt install npm
 
 Clone this repo:
 ```bash
-git clone 
+git clone git@github.com:fr4nkR/sample-js.git
+```
+or:
+```bash
+git clone https://github.com/fr4nkR/sample-js.git
 ```
 
 Install all dependencies:
